@@ -1,0 +1,11 @@
+footer { 
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.ultimo {
+    margin-right: 55px;
+}
+.primero {
+    margin-left: 57.89px;
+}
